@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "title": "Lemon Herb Grilled Chicken",
+    "image": "chicken.jpg",
+    "tags": ["Grill", "Healthy", "Dinner"],
+    "timeMinutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "4 chicken breasts",
+      "2 lemons (juice + zest)",
+      "3 cloves garlic, minced",
+      "2 tbsp olive oil",
+      "1 tsp dried oregano",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Whisk lemon juice, zest, garlic, olive oil, oregano, salt, and pepper.",
+      "Marinate chicken for 15-30 minutes.",
+      "Preheat grill to medium-high heat.",
+      "Grill chicken 6-7 minutes per side until cooked through.",
+      "Rest 5 minutes before slicing. Serve warm."
+    ],
+    "description": "Bright, zesty grilled chicken with aromatics and herbs."
+  },
+  {
+    "id": "2",
+    "title": "Creamy Mushroom Pasta",
+    "image": "pasta.jpg",
+    "tags": ["Vegetarian", "Comfort", "Quick"],
+    "timeMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "200g pasta",
+      "200g mushrooms, sliced",
+      "2 cloves garlic, minced",
+      "1 cup cream",
+      "2 tbsp butter",
+      "Parmesan, salt & pepper"
+    ],
+    "steps": [
+      "Cook pasta according to package instructions.",
+      "Sauté mushrooms in butter until golden.",
+      "Add garlic and cook 1 minute.",
+      "Pour in cream; simmer until slightly thickened.",
+      "Toss with pasta, season, and top with parmesan."
+    ],
+    "description": "Silky cream sauce with umami-rich mushrooms."
+  },
+  {
+    "id": "3",
+    "title": "Tropical Fruit Salad",
+    "image": "fruits.jpg",
+    "tags": ["Vegan", "Gluten-Free", "Breakfast"],
+    "timeMinutes": 10,
+    "servings": 3,
+    "ingredients": [
+      "1 mango, diced",
+      "1 cup pineapple, chunks",
+      "2 kiwis, sliced",
+      "1 banana, sliced",
+      "Lime juice, mint leaves"
+    ],
+    "steps": [
+      "Combine all fruit in a bowl.",
+      "Squeeze fresh lime juice over.",
+      "Toss gently, garnish with mint, and serve chilled."
+    ],
+    "description": "Refreshing and naturally sweet fruit medley."
+  }
+]
